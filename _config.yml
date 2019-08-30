@@ -11,7 +11,7 @@ facebook:
   app_id: 
 
 #logo: "../css/2016_style/img/icon-large.png"
-logo: "../css/2019_style/img/icon-large.png"
+logo: "../css/2020_style/img/icon-large.png"
 
 social: 
   name: Your Facebook Page
@@ -19,8 +19,8 @@ social:
 
 google_site_verification: googleXXXXXXXXXXXXXXXX.html
 
-#include: ['_2016_pages', '_2017_pages', '_2019_pages']
-include: ['_2019_pages']
+#include: ['_2016_pages', '_2017_pages', '_2020_pages']
+include: ['_2020_pages']
 
 plugins:
   - jekyll-sitemap
