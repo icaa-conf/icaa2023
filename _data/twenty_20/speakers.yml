@@ -1,4 +1,4 @@
-- title: Name
+- title: Name_Speaker1
   name: Name-1
   subtitle: Position
   img: TBD.jpg
@@ -7,17 +7,8 @@
   topic: Topic
   description: More Info
 
-- title: Name
+- title: Name_Speaker2
   name: Name-2
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
-
-- title: Name
-  name: Name-3
   subtitle: Position
   img: TBD.jpg
   thumbnail: TBD.jpg

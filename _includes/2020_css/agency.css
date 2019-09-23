@@ -82,7 +82,6 @@ h3,
 h4,
 h5,
 h6 {
-    text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
     font-weight: 700;
 }
@@ -111,7 +110,6 @@ aside.clients,
 
 .btn-primary {
     border-color: #{{ site.data.template.color.primary }};
-    text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
     font-weight: 700;
     color: #fff;
@@ -175,7 +173,6 @@ fieldset[disabled] .btn-primary.active {
     background-color: #{{ site.data.template.color.primary }};
     border-color: #{{ site.data.template.color.primary }};
     border-radius: 3px;
-    text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
 }
 
@@ -277,7 +274,6 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .nav li a {
-    text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
     font-weight: 400;
     letter-spacing: 1px;
@@ -363,7 +359,6 @@ header .intro-text .intro-lead-in {
 
 header .intro-text .intro-heading {
     margin-bottom: 25px;
-    text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
     font-size: 40px;
     font-weight: 700;
@@ -386,7 +381,6 @@ header .intro-text .intro-heading {
 
     header .intro-text .intro-heading {
         margin-bottom: 50px;
-        text-transform: uppercase;
         font-family: {{ site.data.template.font.primary }};
         font-size: 75px;
         font-weight: 700;

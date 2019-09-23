@@ -1,38 +1,9 @@
-<!-- Portfolio Grid Section -->
-    <section id="speakers" class="bg-light-gray">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">Organization</h2>
-                    <!--<h3 class="section-subheading text-muted"></h3>-->
-                </div>
-            </div>
-            <!--<div class="row">
-            {% for post in site.data.twenty_20.speakers %}
-                <div class="col-md-4 col-sm-6 speakers-item">
-                    <a href="#{{ post.name }}" class="speakers-link" data-toggle="modal">
-                        <div class="speakers-hover">
-                            <div class="speakers-hover-content">
-                                <i class="fa fa-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="../css/2020_style/img/speaker/{{ post.thumbnail }}" class="img-responsive img-centered" alt="">
-                    </a>
-                    <div class="speakers-caption">
-                        <h4>{{ post.title }}</h4>
-                        <p class="text-muted">{{ post.subtitle }}</p>
-                    </div>
-                </div>
-            {% endfor %}
-                <div>Webmaster: Name</div>
-                <div>Program commite:
-                    <ul>
-                        <li>Name</li>
-                        <li>Name</li>
-                    </ul>
-                </div>
-            </div>-->
-             <!--background color-->
+---
+layout: 2020_default
+permalink: /2020/organization
+title: Organization
+---
+  <!--background color-->
   <script type="text/javascript">
       document.write ('<body style="background: Gainsboro; background-attachment: fixed;">')
   </script>
@@ -45,19 +16,23 @@
     <div class="team-member">
       <img class="team-photo" src="../css/2020_style/img/team/{{ team.img }}">
       <!-- https://s.gravatar.com/avatar/0000000000000000?s=160 for Gravatar-->
-      <h4>{{ Jeff Offutt }}</h4>
-      <h4>{{ Program co-chair }}</h4>
+      <h3>{{ Jeff Offutt }}</h3>
+      <h3>{{ Program co-chair }}</h3>
       <span>{{ George Mason University, USA }}</span>
        <a class="email" href="mailto:{{ offutt@gmu.edu }}"><span >E-Mail</span></a>
     </div> 
     {% endfor %}
-      
+  </section>
+
+  <section class="cf team-container black-frame">
+    <h1 class="team-h1">List 2</h1>
+
     {% for team in site.data.twenty_20.teams_2 %}
     <div class="team-member">
       <img class="team-photo" src="../css/2020_style/img/team/{{ team.img }}">
       <!-- https://s.gravatar.com/avatar/0000000000000000?s=160 for Gravatar-->
-      <h4>{{ Birgitta Lindstr&oumlm }}</h4>
-      <h4>{{ Program co-chair }}</h4>
+      <h3>{{ Birgitta Lindstr&oumlm }}</h3>
+      <h3>{{ Program co-chair }}</h3>
       <span>{{ University of Sk&oumlvde, Sweden }}</span>
        <a class="email" href="mailto:{{ birgitta.lindstrom@his.se }}"><span >E-Mail</span></a>
     </div> 
@@ -82,5 +57,3 @@
    <li> <b> Upsorn Praphamontripong</b>, University of Virginia, US </li>
    <li> <b> Sreedevi Sampath</b>, University of Maryland Baltimore County, US </li>
   </ul>
-        </div>
-    </section>
