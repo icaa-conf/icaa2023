@@ -1,9 +1,4 @@
-- name: Name-1
-  position: Position
-  img: TBD.jpg
-  email: hello.world@gmail.com
-
-- name: Name-2
-  position: Position
-  img: TBD.jpg
-  email: hello.world@gmail.com
+- name: Birgitta Lindstr&oumlm
+  position: Program co-chair
+  img: lindstrom.jpg
+  email: birgitta.lindstrom@his.se
