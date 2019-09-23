@@ -3,11 +3,11 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">Program chair</h2>
+                    <h2 class="section-heading">Organization</h2>
                     <h3 class="section-subheading text-muted"></h3>
                 </div>
             </div>
-            <div class="row">
+            <!--<div class="row">
             {% for post in site.data.twenty_20.speakers %}
                 <div class="col-md-4 col-sm-6 speakers-item">
                     <a href="#{{ post.name }}" class="speakers-link" data-toggle="modal">
@@ -31,6 +31,60 @@
                         <li>Name</li>
                     </ul>
                 </div>
-            </div>
+            </div>-->
+             <!--background color-->
+  <script type="text/javascript">
+      document.write ('<body style="background: Gainsboro; background-attachment: fixed;">')
+  </script>
+
+  <!-- this section wraps the team members as a container-->
+  <section class="cf team-container team-container-top black-frame">
+    <h1 class="team-h1">List 1</h1>
+  
+    {% for team in site.data.twenty_20.teams_1 %}
+    <div class="team-member">
+      <img class="team-photo" src="../css/2020_style/img/team/{{ team.img }}">
+      <!-- https://s.gravatar.com/avatar/0000000000000000?s=160 for Gravatar-->
+      <h3>{{ Jeff Offutt }}</h3>
+      <h3>{{ Program co-chair }}</h3>
+      <span>{{ George Mason University, USA }}</span>
+       <a class="email" href="mailto:{{ offutt@gmu.edu }}"><span >E-Mail</span></a>
+    </div> 
+    {% endfor %}
+  </section>
+
+  <section class="cf team-container black-frame">
+    <h1 class="team-h1">List 2</h1>
+
+    {% for team in site.data.twenty_20.teams_2 %}
+    <div class="team-member">
+      <img class="team-photo" src="../css/2020_style/img/team/{{ team.img }}">
+      <!-- https://s.gravatar.com/avatar/0000000000000000?s=160 for Gravatar-->
+      <h3>{{ Birgitta Lindstr&oumlm }}</h3>
+      <h3>{{ Program co-chair }}</h3>
+      <span>{{ University of Sk&oumlvde, Sweden }}</span>
+       <a class="email" href="mailto:{{ birgitta.lindstrom@his.se }}"><span >E-Mail</span></a>
+    </div> 
+    {% endfor %} 
+ </section>
+
+  <h2>
+    Webmaster: Andr&agraves M&agraverki
+  </h2>
+  <p>
+    University of Sk&oumlvde, Sweden 
+  </p>
+  <h2>
+    Program Committee
+  </h2>
+  <ul>
+    <li><b> Jeffrey Carver</b>, University of Alabama, US </li>
+   <li> <b> Marcio Delamaro</b>, University of Sao Paolo, Brazil </li>
+   <li> <b> Lin Deng</b>, Towson University, US </li>
+   <li> <b> Hyunsook Do</b>, University of North Texas, US </li>
+   <li> <b> Fabiano Ferrari</b>, Universidade Federal de São Carlos, Brazil </li>
+   <li> <b> Upsorn Praphamontripong</b>, University of Virginia, US </li>
+   <li> <b> Sreedevi Sampath</b>, University of Maryland Baltimore County, US </li>
+  </ul>
         </div>
     </section>
