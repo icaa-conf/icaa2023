@@ -1,16 +1,14 @@
-title: Your Title
+title:TestEd
 description: > # this means to ignore newlines until "baseurl:"
   Your description
 baseurl: "" # the subpath of your site, e.g. /blog
-#url: "Your-Link.github.io" # the base hostname & protocol for your site
-url: "andras-marki.github.io" # the base hostname & protocol for your site
+url: "testedworkshop.github.io/" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 
 facebook:
   app_id: 
 
-#logo: "../css/2016_style/img/icon-large.png"
 logo: "../css/2020_style/img/icon-large.png"
 
 social: 
@@ -19,7 +17,6 @@ social:
 
 google_site_verification: googleXXXXXXXXXXXXXXXX.html
 
-#include: ['_2016_pages', '_2017_pages', '_2020_pages']
 include: ['_2020_pages']
 
 plugins:
