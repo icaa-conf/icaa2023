@@ -17,18 +17,20 @@
                 <section class="cf team-container team-container-top black-frame">
                 <h1 class="team-h1">Program chairs</h1>
 
-                {% for team in site.data.twenty_20.teams_1 %}
-                <div class="col-md-4 col-sm-6 speakers-item">
-                  <img class="team-photo" src="../css/2020_style/img/team/{{ team.img }}">
-                  <!-- https://s.gravatar.com/avatar/0000000000000000?s=160 for Gravatar-->
-                  <h3>{{ team.name }}</h3>
-                  <span>{{ team.position }}</span>
-                   <a class="email" href="mailto:{{ team.email }}"><span >E-Mail</span></a>
-                </div> 
-                {% endfor %}
+                <div class="col-lg-12 text-center">
+                    {% for team in site.data.twenty_20.teams_1 %}
+                    <div class="col-md-4 col-sm-6 speakers-item">
+                      <img class="team-photo" src="../css/2020_style/img/team/{{ team.img }}">
+                      <!-- https://s.gravatar.com/avatar/0000000000000000?s=160 for Gravatar-->
+                      <h3>{{ team.name }}</h3>
+                      <span>{{ team.position }}</span>
+                       <a class="email" href="mailto:{{ team.email }}"><span >E-Mail</span></a>
+                    </div> 
+                    {% endfor %}
+                </div>
 
              </section>
-            <div class="col-lg-12 text-center">
+            <div class="col-lg-12">
             <h3>
                 Webmaster: Andr&aacutes M&aacuterki
             </h3>
@@ -37,7 +39,7 @@
             </p>    
             </div>
             
-            <div class="col-lg-12 text-center">
+            <div class="col-lg-12">
                 <h2>
                     Program Committee
                 </h2>
