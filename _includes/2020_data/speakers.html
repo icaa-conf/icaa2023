@@ -15,44 +15,46 @@
 
               <!-- this section wraps the team members as a container-->
                 <section class="cf team-container team-container-top black-frame">
-                <h1 class="team-h1">Program chairs</h1>
+                    <h1 class="team-h1">Program chairs</h1>
 
-                <div class="col-lg-12 text-center">
-                    {% for team in site.data.twenty_20.teams_1 %}
-                    <div class="col-md-4 col-sm-6 speakers-item">
-                      <img class="team-photo" src="../css/2020_style/img/team/{{ team.img }}">
-                      <!-- https://s.gravatar.com/avatar/0000000000000000?s=160 for Gravatar-->
-                      <h3>{{ team.name }}</h3>
-                      <span>{{ team.position }}</span>
-                       <a class="email" href="mailto:{{ team.email }}"><span >E-Mail</span></a>
-                    </div> 
-                    {% endfor %}
+                    <div class="col-lg-12 text-center">
+                        {% for team in site.data.twenty_20.teams_1 %}
+                        <div class="col-md-4 col-sm-6 speakers-item">
+                          <img class="team-photo" src="../css/2020_style/img/team/{{ team.img }}">
+                          <!-- https://s.gravatar.com/avatar/0000000000000000?s=160 for Gravatar-->
+                          <h3>{{ team.name }}</h3>
+                          <span>{{ team.position }}</span>
+                           <a class="email" href="mailto:{{ team.email }}"><span >E-Mail</span></a>
+                        </div> 
+                        {% endfor %}
+                    </div>
+                </section>
+            </div>
+            <div class="container">
+                <div class="col-lg-12">
+                <h3>
+                    Webmaster: Andr&aacutes M&aacuterki
+                </h3>
+                <p>
+                    University of Sk&oumlvde, Sweden 
+                </p>    
                 </div>
-
-             </section>
-            <div class="col-lg-12">
-            <h3>
-                Webmaster: Andr&aacutes M&aacuterki
-            </h3>
-            <p>
-                University of Sk&oumlvde, Sweden 
-            </p>    
             </div>
-            
-            <div class="col-lg-12">
-                <h2>
-                    Technical Program Committee
-                </h2>
-                <ul>
-                    <li><b> Jeffrey Carver</b>, University of Alabama, US </li>
-                    <li> <b> Marcio Delamaro</b>, University of Sao Paolo, Brazil </li>
-                    <li> <b> Lin Deng</b>, Towson University, US </li>
-                    <li> <b> Hyunsook Do</b>, University of North Texas, US </li>
-                    <li> <b> Fabiano Ferrari</b>, Universidade Federal de São Carlos, Brazil </li>
-                    <li> <b> Upsorn Praphamontripong</b>, University of Virginia, US </li>
-                    <li> <b> Sreedevi Sampath</b>, University of Maryland Baltimore County, US </li>
-                    <li> <b> To be extended ... </b> </li>
-                </ul>
+            <div class="container">
+                <div class="col-lg-12">
+                    <h2>
+                        Technical Program Committee
+                    </h2>
+                    <ul>
+                        <li><b> Jeffrey Carver</b>, University of Alabama, US </li>
+                        <li> <b> Marcio Delamaro</b>, University of Sao Paolo, Brazil </li>
+                        <li> <b> Lin Deng</b>, Towson University, US </li>
+                        <li> <b> Hyunsook Do</b>, University of North Texas, US </li>
+                        <li> <b> Fabiano Ferrari</b>, Universidade Federal de São Carlos, Brazil </li>
+                        <li> <b> Upsorn Praphamontripong</b>, University of Virginia, US </li>
+                        <li> <b> Sreedevi Sampath</b>, University of Maryland Baltimore County, US </li>
+                        <li> <b> To be extended ... </b> </li>
+                    </ul>
+                </div>
             </div>
-        </div>
     </section>
