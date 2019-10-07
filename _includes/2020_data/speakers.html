@@ -25,7 +25,7 @@
                           <h3>{{ team.name }}</h3>
                           <span>{{ team.position }}</span>
                             <a class="url" href="{{ team.url }}"><span >Home page</span></a>
-                           <a class="email" href="mailto:{{ team.email }}"><span >E-Mail</span></a>
+                           <a class="affiliation" {{ team.affiliation }}"></a>
                         </div> 
                         {% endfor %}
                     </div>
