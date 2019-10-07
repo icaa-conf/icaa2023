@@ -23,9 +23,11 @@
                           <img class="team-photo" src="../css/2020_style/img/team/{{ team.img }}">
                           <!-- https://s.gravatar.com/avatar/0000000000000000?s=160 for Gravatar-->
                           <h3>{{ team.name }}</h3>
-                          <span>{{ team.position }}</span>
-                            <span> {{ team.affiliation }}"></span>
+                          <p> 
+                            <span>{{ team.position }}</span> <br>
+                            <span> {{ team.affiliation }}"></span> <br>
                             <a class="url" href="{{ team.url }}"><span >Home page</span></a>
+                            </p>
                         </div> 
                         {% endfor %}
                     </div>
