@@ -4,7 +4,7 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
-p { style="justify"; }
+p { align="justify"; }
 
 html {
   -webkit-box-sizing: border-box;
