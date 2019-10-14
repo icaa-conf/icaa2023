@@ -13,9 +13,8 @@
                   document.write ('<body style="background: Gainsboro; background-attachment: fixed;">')
               </script>
 
-              <!-- this section wraps the team members as a container-->
+              <!-- team1: this section wraps the team members as a container-->
                 <section class="cf team-container team-container-top black-frame">
-
                     <div class="col-lg-12 text-center">
                         {% for team in site.data.twenty_20.teams_1 %}
                         <div class="col-md-4 col-sm-6 speakers-item">
@@ -31,7 +30,25 @@
                         {% endfor %}
                     </div>
                 </section>
+            <!-- team2: this section wraps the team members as a container-->
+                <section class="cf team-container team-container-top black-frame">
+                    <div class="col-lg-12 text-center">
+                        {% for team in site.data.twenty_20.teams_2 %}
+                        <div class="col-md-4 col-sm-6 speakers-item">
+                          <img class="team-photo" src="../css/2020_style/img/team/{{ team.img }}">
+                          <!-- https://s.gravatar.com/avatar/0000000000000000?s=160 for Gravatar-->
+                          <h3>{{ team.name }}</h3>
+                          <p> 
+                            <span>{{ team.position }}</span> <br>
+                            <span> {{ team.affiliation }}</span> <br>
+                            <a class="url" href="{{ team.url }}"><span >Home page</span></a>
+                            </p>
+                        </div> 
+                        {% endfor %}
+                    </div>
+                </section>
             </div>
+        
             <div class="container">
                 <div class="col-lg-12">
                 <h3>
