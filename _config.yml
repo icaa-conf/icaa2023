@@ -1,8 +1,8 @@
 title: ICAA2023
 description: > # this means to ignore newlines until "baseurl:"
   Your description
-# baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://icaa-conf.github.io/icaa2023" # the base hostname & protocol for your site
+baseurl: "/icaa2023" # the subpath of your site, e.g. /blog
+url: "https://icaa-conf.github.io" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 
