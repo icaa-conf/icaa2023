@@ -1,13 +1,15 @@
-- name: Birgitta Lindstr&oumlm
-  position: Program co-chair
-  img: BirgittaLindstrom.jpg
-  email: birgitta.lindstrom@his.se
-  url: https://www.his.se/en/about-us/Facts-and-figures/staff/birgitta_lindstrom/
-  affiliation: University of Sk&oumlvde, Sweden
+- name: Gabor Karsai
+  position: Conference Chair
+  img: karsai.jpg
+  email: 
+  url: 
+  affiliation: Vanderbilt University, USA
   
-- name: Jeff Offutt
-  position: Program co-chair
-  img: JeffOffutt.jpg
-  email: offutt@gmu.edu
-  url: https://cs.gmu.edu/~offutt/
-  affiliation: George Mason University, USA
+- name: Lanier Watkins 
+  position: Conference co-chair
+  img: watkins.jpeg
+  email: 
+  url: 
+  affiliation: The Johns Hopkins University, USA
+
+
