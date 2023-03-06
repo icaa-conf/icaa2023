@@ -1,21 +1,21 @@
 - name: Abhishek Dubey
   position: Program Committee Co-chair
   img: dubey.jpg
-  email: 
+  email: abhishek.dubey@Vanderbilt.Edu
   url: 
   affiliation: Vanderbilt University, USA
 
 - name: Christopher Rouff
   position: Program Committee Co-chair
   img: rouff.jpeg
-  email: 
+  email: Christopher.Rouff@jhuapl.edu
   url: 
   affiliation: The Johns Hopkins University, USA
 
 - name: James Weimer
   position: Finance Chair
   img: weimer.jpeg
-  email: 
+  email: james.weimer@Vanderbilt.Edu
   url: 
   affiliation: Vanderbilt University
 
@@ -23,6 +23,30 @@
 - name: Yogesh Barve
   position: Publicity Chair
   img: yogesh.jpg
-  email: 
+  email: yogesh.d.barve@vanderbilt.edu 
   url: 
   affiliation: Vanderbilt University
+
+- name: Roy Sterritt
+  position: Publicity Chair
+  img: roy.jpg
+  email: r.sterritt@ulster.ac.uk
+  url: 
+  affiliation: Ulster University
+
+- name: Sebastian Zanlongo
+  position: Local Chair
+  img: Sebastian.jpg
+  email: Sebastian.Zanlongo@jhuapl.edu
+  url: 
+  affiliation: The Johns Hopkins University, USA
+
+- name: Leonardo Babun
+  position: Local Chair
+  img: leo.jpg
+  email: Leonardo.Babun@jhuapl.edu
+  url: 
+  affiliation: The Johns Hopkins University, USA
+
+
+
