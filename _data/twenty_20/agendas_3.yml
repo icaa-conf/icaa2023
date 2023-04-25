@@ -1,0 +1,26 @@
+- time: 9:00 AM
+  info: "<strong>Introductions</strong>"
+
+- time: 9:05 AM
+  info: "<strong>Keynote</strong><br><u>Speaker:</u> Signe Redfield"
+
+- time: 10:10 AM
+  info: "<strong>Break</strong>"
+
+- time: 
+  info: "<p><strong>Session 6:  Machine Learning and AI Design </strong></p>"
+
+- time: 10:30 AM
+  info: "<strong>Paper 1:</strong> Explanation Through Reward Model Reconciliation Using POMDP Tree Search"
+
+- time: 11:00 AM
+  info: "<strong>Paper 2:</strong> Cascading Negative Transfer in Networks of Machine Learning Systems"
+
+- time: 11:30 AM
+  info: "<strong>Paper 3:</strong> Dehallucinating Large Language Models Using Formal Methods Guided Iterative Prompting"
+
+- time: 12:00 PM
+  info: "<strong>Paper 4:</strong> Privacy-Aware Blockchain-Based AV Parking System Registration Scheme"
+
+- time: 12:30 PM
+  info: "<strong>Conference Closing Remarks</strong>"

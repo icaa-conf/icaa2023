@@ -1,5 +1,67 @@
-- time: 8:00 AM - 12:00 PM
-  info: "<u>Title</u><br><b>Name</b><br><i>Position</i><br><br>Topic"
+# - time: 8:00 AM - 12:00 PM
+#   info: "<u>Title</u><br><b>Name</b><br><i>Position</i><br><br>Topic"
 
-- time: 12:00 PM - 3:00 PM
-  info: "<u>Title</u><br><b>Name</b><br><i>Position</i><br><br>Topic"
+# - time: 12:00 PM - 3:00 PM
+#   info: "<u>Title</u><br><b>Name</b><br><i>Position</i><br><br>Topic"
+
+- time: 9:00 AM
+  info: "<strong>Introductions</strong>"
+
+- time: 9:05 AM
+  info: "<strong>Keynote</strong><br><u>Speaker:</u> Brad Martin"
+
+- time: 10:10 AM
+  info: "<strong> Break</strong>"
+
+- time: 
+  info: "<p><strong>Session 3: Verification </strong></p>"
+
+- time: 10:30 AM
+  info: "<strong>Paper 1:</strong>  Proposed V-Model for Verification, Validation, and Safety Activities for Artificial Intelligence"
+
+- time: 11:00 AM
+  info: "<strong>Paper 2:</strong> Example Applications of Formal Methods to Aerospace and Autonomous Systems"
+
+- time: 11:30 AM
+  info: "<strong>Paper 3:</strong> Detecting Trojaned DNNs Using Counterfactual Attributions"
+
+- time: 12:00 PM
+  info: "Lunch"
+
+- time: 
+  info: "<p><strong> Session 4 Assuring Systems</strong> </p>"
+
+- time: 13:30 PM
+  info: "<strong>Paper 4:</strong> Watchdog for Assuring COLREG Compliance of Autonomous Unmanned Surface Vessels That Include Artificial Intelligence"
+
+- time: 14:00 PM
+  info: "<strong>Paper 5:</strong>Architecting Systems for Assured Autonomy"
+
+- time: 14:30 PM
+  info: "<strong>Paper 6:</strong> Assurance for Autonomy - JPL's Past Research, Lessons Learned, and Future Directions"
+
+- time: 15:00 PM
+  info: "<strong>Break</strong>"
+
+- time: 
+  info: "<p><strong>Session 5: Cyber Deterrence</strong></p>"  
+
+
+
+- time: 15:15 PM 
+  info: "<strong>Paper 7:</strong> AI Forensics"
+
+
+- time: 15:45 PM 
+  info: "<strong>Paper 8:</strong> Space Booby Traps: Hacking Back and Assured Cyber Deterrence in Space"
+
+
+- time: 16:15 PM 
+  info: "<strong>Paper 9:</strong> Assured Point Cloud Perception"
+
+
+- time: 16:45 PM 
+  info: "<strong>Paper 10:</strong> A Safety Fallback Controller for Improved Collision Avoidance"
+
+- time: 17:15 PM
+  info: "Day 2 Closing Remarks " 

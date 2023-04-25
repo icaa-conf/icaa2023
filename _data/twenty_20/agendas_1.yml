@@ -1,5 +1,47 @@
-- time: 8:00 AM - 12:00 PM
-  info: "<u>Title</u><br><b>Name</b><br><i>Position</i><br><br>Topic"
+- time: 9:00 AM
+  info: "<strong>Introductions</strong>"
 
-- time: 12:00 PM - 3:00 PM
-  info: "<u>Title</u><br><b>Name</b><br><i>Position</i><br><br>Topic"
+- time: 9:10 AM
+  info: "<strong>Keynote</strong><br><u>Speaker:</u> Eddie Tunstel"
+
+- time: 10:10 AM
+  info: "<strong> Break</strong>"
+
+- time: 
+  info:  "<p><strong>Session 1: Addressing Novelty for Trained Components</strong></p>" 
+
+- time: 10:30 AM
+  info: "<strong>Paper 1:</strong> Causal Repair of Learning-Enabled Cyber-Physical Systems"
+
+- time: 11:00 AM
+  info: "<p><strong>Paper 2:</strong> Novelty Detection in Network Traffic: Using Survival Analysis for Feature Identification</p>"
+
+- time: 11:30 AM
+  info: "<strong>Paper 3:</strong> Predicting Out-Of-Distribution Performance of Deep Neural Networks Using Model Conformance"
+
+- time: 12:00 PM
+  info: "Lunch"
+
+- time: 13:30 PM
+  info: "<p> Tutorial/Demonstration - Isaac </p>"
+
+- time: 14:30 PM
+  info: "<p> Break </p>"
+  
+- time: 
+  info:  "<p><strong>Session 2:  Autonomous Systems</strong></p>" 
+
+- time: 14:45 PM
+  info: "<strong>Paper 4:</strong> Driver Alerting in ADAS-Equipped Cars: A Field Study"
+
+- time: 15:15 PM
+  info: "<strong>Paper 5:</strong>Leveraging Compositional Methods for Modeling and Verification of an Autonomous Taxi System"
+
+- time: 15:45 PM
+  info: "<strong>Paper 6:</strong> Safe Explainable Agents for Autonomous Navigation Using Evolving Behavior Trees"
+
+- time: 16:15 PM 
+  info: "<strong>Paper 7:</strong> Live Virtual Constructive Environment for Assuring the Safety and Security of Complex Autonomous Vehicles"
+
+- time: 16:45 PM
+  info: "Day 1 Closing Remarks " 
