@@ -8,7 +8,7 @@
   info: "<strong>Introductions</strong>"
 
 - time: 9:05 AM
-  info: "<strong>Keynote</strong><br><u>Speaker:</u> Brad Martin"
+  info: "<strong>Keynote</strong><br><u>Speaker:</u> Dr. Brad Martin, Program manager, Information Innovation Office (I2O),  DARPA<br> <strong>Title: Working at the intersection of Assurance and AI</strong>"
 
 - time: 10:10 AM
   info: "<strong> Break</strong>"
@@ -17,13 +17,13 @@
   info: "<p><strong>Session 3: Verification </strong></p>"
 
 - time: 10:30 AM
-  info: "<strong>Paper 1:</strong>  Proposed V-Model for Verification, Validation, and Safety Activities for Artificial Intelligence"
+  info: "<strong>Paper 1:</strong>  Proposed V-Model for Verification, Validation, and Safety Activities for Artificial Intelligence <br><em>Authors: Benjamin Schumeg; Franklin Marotta; Benjamin Werner</em>"
 
 - time: 11:00 AM
-  info: "<strong>Paper 2:</strong> Example Applications of Formal Methods to Aerospace and Autonomous Systems"
+  info: "<strong>Paper 2:</strong> Example Applications of Formal Methods to Aerospace and Autonomous Systems <br><em>Authors: Laura R Humphrey</em>"
 
 - time: 11:30 AM
-  info: "<strong>Paper 3:</strong> Detecting Trojaned DNNs Using Counterfactual Attributions"
+  info: "<strong>Paper 3:</strong> Detecting Trojaned DNNs Using Counterfactual Attributions <br> Authors: Karan Sikka; Indranil Sur; Anirban Roy; Ajay Divakaran; Susmit Jha"
 
 - time: 12:00 PM
   info: "Lunch"
@@ -32,13 +32,13 @@
   info: "<p><strong> Session 4 Assuring Systems</strong> </p>"
 
 - time: 13:30 PM
-  info: "<strong>Paper 4:</strong> Watchdog for Assuring COLREG Compliance of Autonomous Unmanned Surface Vessels That Include Artificial Intelligence"
+  info: "<strong>Paper 4:</strong> Watchdog for Assuring COLREG Compliance of Autonomous Unmanned Surface Vessels That Include Artificial Intelligence <br> Authors: Joshua D. Prucnal; David Scheidt"
 
 - time: 14:00 PM
-  info: "<strong>Paper 5:</strong>Architecting Systems for Assured Autonomy"
+  info: "<strong>Paper 5:</strong>Architecting Systems for Assured Autonomy <br> Authors: Richard D Avila; Jason Clark"
 
 - time: 14:30 PM
-  info: "<strong>Paper 6:</strong> Assurance for Autonomy - JPL's Past Research, Lessons Learned, and Future Directions"
+  info: "<strong>Paper 6:</strong> Assurance for Autonomy - JPL's Past Research, Lessons Learned, and Future Directions <br><em>Authors: Alessandro Pinto; Martin Feather</em>"
 
 - time: 15:00 PM
   info: "<strong>Break</strong>"
@@ -49,19 +49,19 @@
 
 
 - time: 15:15 PM 
-  info: "<strong>Paper 7:</strong> AI Forensics"
+  info: "<strong>Paper 7:</strong> AI Forensics <br><em>Authors: Samuel Lefcourt; Gregory Falco</em>"
 
 
 - time: 15:45 PM 
-  info: "<strong>Paper 8:</strong> Space Booby Traps: Hacking Back and Assured Cyber Deterrence in Space"
+  info: "<strong>Paper 8:</strong> Space Booby Traps: Hacking Back and Assured Cyber Deterrence in Space <br><em>Authors: Jocelyn Hsu; Gregory Falco</em>"
 
 
 - time: 16:15 PM 
-  info: "<strong>Paper 9:</strong> Assured Point Cloud Perception"
+  info: "<strong>Paper 9:</strong> Assured Point Cloud Perception <br><em>Authors: Christopher R Serrano; Aleksey Nogin; Michael A Warren</em>"
 
 
 - time: 16:45 PM 
-  info: "<strong>Paper 10:</strong> A Safety Fallback Controller for Improved Collision Avoidance"
+  info: "<strong>Paper 10:</strong> A Safety Fallback Controller for Improved Collision Avoidance <br><em>Authors: Daniel Genin; Elizabeth Dietrich; Yanni Kouskoulas; Aurora Schmidt; Marin Kobilarov; Kapil Katyal; Shahriar Sefati; Subhransu Kumar Mishra; Ivan Papusha<em>"
 
 - time: 17:15 PM
   info: "Day 2 Closing Remarks " 

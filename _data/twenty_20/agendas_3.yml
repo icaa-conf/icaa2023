@@ -2,7 +2,7 @@
   info: "<strong>Introductions</strong>"
 
 - time: 9:05 AM
-  info: "<strong>Keynote</strong><br><u>Speaker:</u> Signe Redfield"
+  info: "<strong>Keynote</strong><br><u>Speaker:</u> Signe Redfield,Director, US NRL Laboratory for Autonomous Systems Research <br><strong>Title: IEEE P2817 - A Best Practices Guide for Verification of Autonomous Systems</strong>"
 
 - time: 10:10 AM
   info: "<strong>Break</strong>"
@@ -11,16 +11,16 @@
   info: "<p><strong>Session 6:  Machine Learning and AI Design </strong></p>"
 
 - time: 10:30 AM
-  info: "<strong>Paper 1:</strong> Explanation Through Reward Model Reconciliation Using POMDP Tree Search"
+  info: "<strong>Paper 1:</strong> Explanation Through Reward Model Reconciliation Using POMDP Tree Search <br><em>Authors: Benjamin D Kraske; Anshu Saksena; Anna L Buczak; Zachary N Sunberg</em>"
 
 - time: 11:00 AM
-  info: "<strong>Paper 2:</strong> Cascading Negative Transfer in Networks of Machine Learning Systems"
+  info: "<strong>Paper 2:</strong> Cascading Negative Transfer in Networks of Machine Learning Systems <br><em>Authors: Tyler Cody; Peter Belng</em>"
 
 - time: 11:30 AM
-  info: "<strong>Paper 3:</strong> Dehallucinating Large Language Models Using Formal Methods Guided Iterative Prompting"
+  info: "<strong>Paper 3:</strong> Dehallucinating Large Language Models Using Formal Methods Guided Iterative Prompting <br><em>Authors: Susmit Jha; Sumit Kumar Jha; Patrick Lincoln; Nathaniel D. Bastian; Alvaro Velasquez; Sandeep Neema</em>"
 
 - time: 12:00 PM
-  info: "<strong>Paper 4:</strong> Privacy-Aware Blockchain-Based AV Parking System Registration Scheme"
+  info: "<strong>Paper 4:</strong> Privacy-Aware Blockchain-Based AV Parking System Registration Scheme <br><em>Authors: Alexander Haastrup; Muhammad A Hataba; Ahmed Sherif; Mohamed Elsersy</em>"
 
 - time: 12:30 PM
   info: "<strong>Conference Closing Remarks</strong>"

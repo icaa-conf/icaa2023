@@ -2,7 +2,7 @@
   info: "<strong>Introductions</strong>"
 
 - time: 9:10 AM
-  info: "<strong>Keynote</strong><br><u>Speaker:</u> Eddie Tunstel"
+  info: "<strong>Keynote</strong><br><u>Speaker:</u> Dr. Edward Tunstel, CTO of Motiv Space Systems, Inc.<br><strong>Title:   An Autonomous Systems Developer Perspective on Assured Autonomy.</strong>"
 
 - time: 10:10 AM
   info: "<strong> Break</strong>"
@@ -11,19 +11,19 @@
   info:  "<p><strong>Session 1: Addressing Novelty for Trained Components</strong></p>" 
 
 - time: 10:30 AM
-  info: "<strong>Paper 1:</strong> Causal Repair of Learning-Enabled Cyber-Physical Systems"
+  info: "<strong>Paper 1:</strong> Causal Repair of Learning-Enabled Cyber-Physical Systems <br><em>Authors:  Pengyuan Lu; Ivan Ruchkin; Matthew Cleaveland; Oleg Sokolsky; Insup Lee </em>"
 
 - time: 11:00 AM
-  info: "<p><strong>Paper 2:</strong> Novelty Detection in Network Traffic: Using Survival Analysis for Feature Identification</p>"
+  info: "<strong>Paper 2:</strong> Novelty Detection in Network Traffic: Using Survival Analysis for Feature Identification <br><em>Authors: Taylor Bradley; Elie Alhajjar; Nathaniel D. Bastian</em> "
 
 - time: 11:30 AM
-  info: "<strong>Paper 3:</strong> Predicting Out-Of-Distribution Performance of Deep Neural Networks Using Model Conformance"
+  info: "<strong>Paper 3:</strong> Predicting Out-Of-Distribution Performance of Deep Neural Networks Using Model Conformance <br><em>Authors:  Ramneet Kaur; Susmit Jha; Anirban Roy; Oleg Sokolsky; Insup Lee</em>"
 
 - time: 12:00 PM
   info: "Lunch"
 
 - time: 13:30 PM
-  info: "<p> Tutorial/Demonstration - Isaac </p>"
+  info: "<strong>Tutorial/Demonstration</strong> <br><u>Speaker</u>  Dr. Isaac Amundson Senior Principal Systems Engineer, Applied Research and Technology group, Collins Aerospace<br> <strong>Title:  Architecture and Analysis for High-Assurance Autonomy </strong> "
 
 - time: 14:30 PM
   info: "<p> Break </p>"
@@ -32,16 +32,16 @@
   info:  "<p><strong>Session 2:  Autonomous Systems</strong></p>" 
 
 - time: 14:45 PM
-  info: "<strong>Paper 4:</strong> Driver Alerting in ADAS-Equipped Cars: A Field Study"
+  info: "<strong>Paper 4:</strong> Driver Alerting in ADAS-Equipped Cars: A Field Study<br><em>Authors: Missy Cummings, Ben Bauchwitz</em>"
 
 - time: 15:15 PM
-  info: "<strong>Paper 5:</strong>Leveraging Compositional Methods for Modeling and Verification of an Autonomous Taxi System"
+  info: "<strong>Paper 5:</strong>Leveraging Compositional Methods for Modeling and Verification of an Autonomous Taxi System<br><em>Authors: Alessandro Pinto; Anthony L. Corso; Edward Schmerling </em>"
 
 - time: 15:45 PM
-  info: "<strong>Paper 6:</strong> Safe Explainable Agents for Autonomous Navigation Using Evolving Behavior Trees"
+  info: "<strong>Paper 6:</strong> Safe Explainable Agents for Autonomous Navigation Using Evolving Behavior Trees<br><em>Authors:  Nicholas Potteiger; Xenofon Koutsoukos</em>"
 
 - time: 16:15 PM 
-  info: "<strong>Paper 7:</strong> Live Virtual Constructive Environment for Assuring the Safety and Security of Complex Autonomous Vehicles"
+  info: "<strong>Paper 7:</strong> Live Virtual Constructive Environment for Assuring the Safety and Security of Complex Autonomous Vehicles<br><em>Authors: Bradley D Potteiger; Thomas Dignan; Amber R Mills; Edward J Pavelka; Caleb Frey; Benjamin E Nathan; Milkii Dagne; Violet Garibaldi; Ben Otter</em>"
 
 - time: 16:45 PM
   info: "Day 1 Closing Remarks " 

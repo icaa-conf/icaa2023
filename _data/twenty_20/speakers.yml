@@ -1,17 +1,38 @@
-- title: Name_Speaker1
-  name: Name-1
-  subtitle: Position
+- title: Dr. Brad Martins
+  name: Dr. Brad Martins
+  subtitle: Program manager, Information Innovation Office (I2O),  DARPA
   img: TBD.jpg
   thumbnail: TBD.jpg
   alt: Picture of TBD
-  topic: Topic
-  description: More Info
+  topic: Working at the intersection of Assurance and AI
+  description: During this presentation Mr. Martin will discuss research activities at the intersection of Assurance and AI in which he has been engaged while serving within DARPA’s Information Innovation Office.
 
-- title: Name_Speaker2
-  name: Name-2
-  subtitle: Position
+
+- title: Dr. Signe Redfield 
+  name: Dr. Signe Redfield 
+  subtitle: Director, US NRL Laboratory for Autonomous Systems Research
   img: TBD.jpg
   thumbnail: TBD.jpg
   alt: Picture of TBD
-  topic: Topic
-  description: More Info
+  topic: IEEE P2817 - A Best Practices Guide for Verification of Autonomous Systems
+  description: Verification of autonomous systems is an extremely challenging problem that is just starting to receive the attention it needs.  Over the last few years, the IEEE Standards Association Standard Development Working Group P2817 has assembled a compilation of tips, pitfalls, and best practices around verification of autonomous systems.  This talk addresses how the challenges of autonomous system development and experimentation interact with the challenges of assessing and certifying these systems to define best practices for their verification.
+
+
+- title: Dr. Isaac Amundson
+  name: Dr. Isaac Amundson
+  subtitle:  Senior Principal Systems Engineer, Applied Research and Technology group, Collins Aerospace
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  alt: Picture of TBD
+  topic: Architecture and Analysis for High-Assurance Autonomy
+  description: Advanced capabilities planned for the next generation of autonomous vehicles will be based on non-traditional software components containing complex machine learning algorithms. These systems will incorporate adaptive and intelligent control algorithms that provide enhanced safety, autonomy, and high-level decision-making functions currently performed by human operators, as well as robustness in the presence of failures, adverse conditions, and unexpected situations.  However, there are serious barriers to the deployment of such systems. Current certification processes are based on the idea that the correct behavior of a system or a component must be completely specified and verified prior to operation. These barriers will delay or prevent the deployment of crucial safety functions and new capabilities that could be of great value in both military and civilian applications.  In this tutorial, we will present our methodology, developed on the DARPA Assured Autonomy program, for the design and analysis of high-assurance systems containing learning-enabled components (LECs).  Our demonstration system includes a safety architecture based on the ASTM F3269-17 standard for bounded behavior of complex systems, diverse run-time monitors of system safety, and formal synthesis and analysis of critical high-assurance components. The enhanced system demonstrates the ability of the run-time assurance architecture to maintain system safety in the presence of defects in the underlying LEC.
+
+- title: Dr. Edward Tunstel
+  name: Dr. Edward Tunstel
+  subtitle:  Chief Technology Officer, Motiv Space Systems, Inc.
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  alt: Picture of TBD
+  topic:  An Autonomous Systems Developer Perspective on Assured Autonomy
+  description: As autonomous system capabilities roll out of research laboratories and industry and into societal use, users and stakeholders increasingly demand some form of assurance that they will function correctly and operate safely and securely. Research over the past decades has focused largely on enabling autonomy and ensuring its functional correctness. Of late, driven by gradual technological maturity and resulting demand, the research & development community has necessarily responded by beginning to confront the challenges of formal aspects of functional correctness as well as safety and security of autonomous systems. Through a lens of several decades of autonomous systems development focused on enabling and fielding autonomy, this keynote shares various thoughts and perspectives on aspects of autonomy assurance. Also shared are thoughts on the state of autonomous systems maturity, the scope of implementation approaches, and other considerations shaped by autonomy development perspectives. The aim is to offer food for thought and to invite consideration of how assured autonomy can be thought about and realized across a spectrum of applications.
+
