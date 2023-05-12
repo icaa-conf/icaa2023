@@ -18,14 +18,14 @@
   description: Verification of autonomous systems is an extremely challenging problem that is just starting to receive the attention it needs.  Over the last few years, the IEEE Standards Association Standard Development Working Group P2817 has assembled a compilation of tips, pitfalls, and best practices around verification of autonomous systems.  This talk addresses how the challenges of autonomous system development and experimentation interact with the challenges of assessing and certifying these systems to define best practices for their verification.
 
 
-- title: Dr. Isaac Amundson
-  name: Dr. Isaac Amundson
-  subtitle:  Senior Principal Systems Engineer, Applied Research and Technology group, Collins Aerospace
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
-  topic: Architecture and Analysis for High-Assurance Autonomy
-  description: Advanced capabilities planned for the next generation of autonomous vehicles will be based on non-traditional software components containing complex machine learning algorithms. These systems will incorporate adaptive and intelligent control algorithms that provide enhanced safety, autonomy, and high-level decision-making functions currently performed by human operators, as well as robustness in the presence of failures, adverse conditions, and unexpected situations.  However, there are serious barriers to the deployment of such systems. Current certification processes are based on the idea that the correct behavior of a system or a component must be completely specified and verified prior to operation. These barriers will delay or prevent the deployment of crucial safety functions and new capabilities that could be of great value in both military and civilian applications.  In this tutorial, we will present our methodology, developed on the DARPA Assured Autonomy program, for the design and analysis of high-assurance systems containing learning-enabled components (LECs).  Our demonstration system includes a safety architecture based on the ASTM F3269-17 standard for bounded behavior of complex systems, diverse run-time monitors of system safety, and formal synthesis and analysis of critical high-assurance components. The enhanced system demonstrates the ability of the run-time assurance architecture to maintain system safety in the presence of defects in the underlying LEC.
+# - title: Dr. Isaac Amundson
+#   name: Dr. Isaac Amundson
+#   subtitle:  Senior Principal Systems Engineer, Applied Research and Technology group, Collins Aerospace
+#   img: TBD.jpg
+#   thumbnail: TBD.jpg
+#   alt: Picture of TBD
+#   topic: Architecture and Analysis for High-Assurance Autonomy
+#   description: Advanced capabilities planned for the next generation of autonomous vehicles will be based on non-traditional software components containing complex machine learning algorithms. These systems will incorporate adaptive and intelligent control algorithms that provide enhanced safety, autonomy, and high-level decision-making functions currently performed by human operators, as well as robustness in the presence of failures, adverse conditions, and unexpected situations.  However, there are serious barriers to the deployment of such systems. Current certification processes are based on the idea that the correct behavior of a system or a component must be completely specified and verified prior to operation. These barriers will delay or prevent the deployment of crucial safety functions and new capabilities that could be of great value in both military and civilian applications.  In this tutorial, we will present our methodology, developed on the DARPA Assured Autonomy program, for the design and analysis of high-assurance systems containing learning-enabled components (LECs).  Our demonstration system includes a safety architecture based on the ASTM F3269-17 standard for bounded behavior of complex systems, diverse run-time monitors of system safety, and formal synthesis and analysis of critical high-assurance components. The enhanced system demonstrates the ability of the run-time assurance architecture to maintain system safety in the presence of defects in the underlying LEC.
 
 - title: Dr. Edward Tunstel
   name: Dr. Edward Tunstel
