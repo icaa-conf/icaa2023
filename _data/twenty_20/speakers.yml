@@ -1,9 +1,9 @@
 - title: Dr. Brad Martins
   name: Dr. Brad Martins
   subtitle: Program manager, Information Innovation Office (I2O),  DARPA
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
+  img: brad.jpg
+  thumbnail: brad.jpg
+  alt: Picture of Dr. Brad Martins
   topic: Working at the intersection of Assurance and AI
   description: During this presentation Mr. Martin will discuss research activities at the intersection of Assurance and AI in which he has been engaged while serving within DARPA’s Information Innovation Office.
 
@@ -11,9 +11,9 @@
 - title: Dr. Signe Redfield 
   name: Dr. Signe Redfield 
   subtitle: Director, US NRL Laboratory for Autonomous Systems Research
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
+  img: signe.png
+  thumbnail: signe.png
+  alt: Picture of Dr. Signe Redfield
   topic: IEEE P2817 - A Best Practices Guide for Verification of Autonomous Systems
   description: Verification of autonomous systems is an extremely challenging problem that is just starting to receive the attention it needs.  Over the last few years, the IEEE Standards Association Standard Development Working Group P2817 has assembled a compilation of tips, pitfalls, and best practices around verification of autonomous systems.  This talk addresses how the challenges of autonomous system development and experimentation interact with the challenges of assessing and certifying these systems to define best practices for their verification.
 
@@ -30,9 +30,9 @@
 - title: Dr. Edward Tunstel
   name: Dr. Edward Tunstel
   subtitle:  Chief Technology Officer, Motiv Space Systems, Inc.
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
+  img: tunstel.png
+  thumbnail: tunstel.png
+  alt: Picture of Dr. Edward Tunstel
   topic:  An Autonomous Systems Developer Perspective on Assured Autonomy
   description: As autonomous system capabilities roll out of research laboratories and industry and into societal use, users and stakeholders increasingly demand some form of assurance that they will function correctly and operate safely and securely. Research over the past decades has focused largely on enabling autonomy and ensuring its functional correctness. Of late, driven by gradual technological maturity and resulting demand, the research & development community has necessarily responded by beginning to confront the challenges of formal aspects of functional correctness as well as safety and security of autonomous systems. Through a lens of several decades of autonomous systems development focused on enabling and fielding autonomy, this keynote shares various thoughts and perspectives on aspects of autonomy assurance. Also shared are thoughts on the state of autonomous systems maturity, the scope of implementation approaches, and other considerations shaped by autonomy development perspectives. The aim is to offer food for thought and to invite consideration of how assured autonomy can be thought about and realized across a spectrum of applications.
 
