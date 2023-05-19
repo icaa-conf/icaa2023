@@ -10,6 +10,12 @@
   info: Check out the agenda
   link: /2020/agenda
 
+- inverted: timeline-inverted
+  img: icon-agenda.jpeg
+  name: Keynotes
+  info: Check out the Keynotes
+  link: /2020/keynotes
+
 - inverted: 
   img: icon-team.jpeg
   name: Team
